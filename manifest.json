@@ -1,0 +1,1 @@
+{"name": "ファゴット練習ツール", "short_name": "Fg Practice", "start_url": "./", "display": "standalone", "background_color": "#19253D", "theme_color": "#19253D", "icons": [{"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}, {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}
